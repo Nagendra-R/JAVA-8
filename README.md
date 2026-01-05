@@ -71,7 +71,11 @@ Functional Interface---------	  One abstract method interface
 
 
 Lambda Expression	Shorter-----  function syntax
+
+
 Stream API	------------------  Functional data processing
+
+
 Date & Time API	-------------   Modern, thread-safe date handling
 
    
