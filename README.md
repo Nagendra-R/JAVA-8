@@ -64,7 +64,12 @@ Features in Java8
 
 
 Interface Enhancement---------	Default and static methods
+
+
+
 Functional Interface---------	  One abstract method interface
+
+
 Lambda Expression	Shorter-----  function syntax
 Stream API	------------------  Functional data processing
 Date & Time API	-------------   Modern, thread-safe date handling
